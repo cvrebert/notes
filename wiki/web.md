@@ -1,2 +1,5 @@
 * [Switch to HTTPS Now, For Free](https://konklone.com/post/switch-to-https-now-for-free)
 * [The Flask Mega-Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+* [Pagination: You're (Probably) Doing It Wrong.](http://www.reddit.com/r/programming/comments/1ae0tl/pagination_youre_probably_doing_it_wrong/)
+* [Coaster: lib for common Flask stuff](https://github.com/hasgeek/coaster)
+* [JSON isn't a JS subset](https://medium.com/joys-of-javascript/42a28471221d)
