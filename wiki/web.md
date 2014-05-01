@@ -3,3 +3,7 @@
 * [Pagination: You're (Probably) Doing It Wrong.](http://www.reddit.com/r/programming/comments/1ae0tl/pagination_youre_probably_doing_it_wrong/)
 * [Coaster: lib for common Flask stuff](https://github.com/hasgeek/coaster)
 * [JSON isn't a JS subset](https://medium.com/joys-of-javascript/42a28471221d)
+* [The JavaScript Problem](http://www.haskell.org/haskellwiki/The_JavaScript_Problem)
+  * [TypeScript](http://www.typescriptlang.org/)
+* [Auto-updating "N time-units ago" delta strings](http://timeago.yarp.com/)
+* [History.js: History API polyfill/wrapper](https://github.com/browserstate/history.js)
