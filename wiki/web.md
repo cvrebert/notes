@@ -7,3 +7,4 @@
   * [TypeScript](http://www.typescriptlang.org/)
 * [Auto-updating "N time-units ago" delta strings](http://timeago.yarp.com/)
 * [History.js: History API polyfill/wrapper](https://github.com/browserstate/history.js)
+* [Zed A. Shaw - The Web Will Die When OOP Dies](http://vimeo.com/m/43380467)
