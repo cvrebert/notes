@@ -3,8 +3,8 @@
 * [Prog Lang Politics (Steve Yegge)](https://plus.google.com/u/0/110981030061712822816/posts/KaSKeg4vQtz)
 * [Why OO Sucks by Joe Armstrong](http://harmful.cat-v.org/software/OO_programming/why_oo_sucks)
 * [Not enough by Fogus](http://blog.fogus.me/2012/06/20/not-enough/)
+* [Socio-PLT: Principles for Programming Language Adoption by @LMeyerov](http://www.eecs.berkeley.edu/~lmeyerov/projects/socioplt/paper0413.pdf)
 * Scala & Perl suffer from syntactic diabetes
-
 
 > barrkel on HN:
 > There's a simple concept that one should bear in mind when designing APIs: "pit of success" (credit to Rico Mariani).
