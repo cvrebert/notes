@@ -5,6 +5,8 @@
 * [Not enough by Fogus](http://blog.fogus.me/2012/06/20/not-enough/)
 * [Socio-PLT: Principles for Programming Language Adoption by @LMeyerov](http://www.eecs.berkeley.edu/~lmeyerov/projects/socioplt/paper0413.pdf)
 * [F* and termination checking](http://www.reddit.com/r/programming/comments/23xzp3/f_a_dependentlytyped_variant_of_f_for_program/)
+* On operator overloading, type conversion, and symmetry
+  * [C#: Inconsistent equality](http://www.reddit.com/r/programming/comments/1vae5d/c_inconsistent_equality/)
 * Scala & Perl suffer from syntactic diabetes
 
 > barrkel on HN:
