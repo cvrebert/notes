@@ -9,3 +9,4 @@
 * [Growing a Language, by Guy Steele (OOPSLA, 1998)](http://www.reddit.com/r/programming/comments/19gsaz/growing_a_language_by_guy_steele_oopsla_1998/)
 * [The Joy of Joy](http://ncreep.github.io/language_perils/blog/2013-03-18-the-joy-of-joy.html)
 * [Multi-assignment syntax](https://blog.mozilla.org/dherman/2011/12/01/now-thats-a-nice-stache/)
+* [Reactive Extensions: Rx](https://rx.codeplex.com/)
