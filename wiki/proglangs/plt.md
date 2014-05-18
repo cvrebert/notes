@@ -8,6 +8,7 @@
 * [Pipes.Tutorial: Stream processing done right](http://hackage.haskell.org/package/pipes-4.0.0/docs/Pipes-Tutorial.html)
 * [Programming with Managed Time](http://research.microsoft.com/pubs/211297/managedtime.pdf)
   * https://news.ycombinator.com/item?id=7702796
+* [Great Works in Programming Languages, Benjamin C. Pierce](http://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml)
 * On operator overloading, type conversion, and symmetry
   * [C#: Inconsistent equality](http://www.reddit.com/r/programming/comments/1vae5d/c_inconsistent_equality/)
 * Scala & Perl suffer from syntactic diabetes
