@@ -4,6 +4,7 @@
 * [Why OO Sucks by Joe Armstrong](http://harmful.cat-v.org/software/OO_programming/why_oo_sucks)
 * [Not enough by Fogus](http://blog.fogus.me/2012/06/20/not-enough/)
 * [Socio-PLT: Principles for Programming Language Adoption by @LMeyerov](http://www.eecs.berkeley.edu/~lmeyerov/projects/socioplt/paper0413.pdf)
+* [F* and termination checking](http://www.reddit.com/r/programming/comments/23xzp3/f_a_dependentlytyped_variant_of_f_for_program/)
 * Scala & Perl suffer from syntactic diabetes
 
 > barrkel on HN:
