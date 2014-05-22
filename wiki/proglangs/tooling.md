@@ -2,3 +2,4 @@
 * have a built-in scaffolding generator
  * https://github.com/fujimura/hi
  * https://github.com/audreyr/cookiecutter
+* have an automatic style enforce/formatter, ala `gofmt`
