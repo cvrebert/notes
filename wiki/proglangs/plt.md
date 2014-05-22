@@ -11,6 +11,7 @@
 * [Great Works in Programming Languages, Benjamin C. Pierce](http://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml)
 * [Dart for the Language Enthusiast](http://www.infoq.com/presentations/dart-introduction)
 * [Backpack: Retrofitting Haskell with Interfaces, by SPJ et al.](http://plv.mpi-sws.org/backpack/)
+* [Rust: Aliasing + Mutability = Problems](https://air.mozilla.org/guaranteeing-memory-safety-in-rust/)
 * On operator overloading, type conversion, and symmetry
   * [C#: Inconsistent equality](http://www.reddit.com/r/programming/comments/1vae5d/c_inconsistent_equality/)
 * Scala & Perl suffer from syntactic diabetes
