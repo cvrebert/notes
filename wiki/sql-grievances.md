@@ -5,7 +5,7 @@
 * SQL's syntax isn't nicely composable.
   * e.g. I can't just tack on another `WHERE` clause to filter things further, the clauses must appear in a specific order, etc.
   * I mean, you could use lost of nested subqueries, but it's fugly and probably doesn't optimize well.
-* Quoting of names varies by SQL implementation; e.g. `[MyArbitrarilyNamedTable]` in MS SQL Server vs. `\`MyArbitrarilyNamedTable\`` in MySQL
+* Quoting of names varies by SQL implementation; e.g. `[MyArbitrarilyNamedTable]` in MS SQL Server vs. `` `MyArbitrarilyNamedTable` `` in MySQL
 * Column type definitions default to nullable, implicitly.
 * Too easy to accidentally write an unindexed query; should issue a warning which can be upgraded to an error via configuration
 * Awkwardness of "backwards" JOINs
