@@ -10,5 +10,5 @@
 * Too easy to accidentally write an unindexed query; should issue a warning which can be upgraded to an error via configuration
 * Awkwardness of "backwards" JOINs
 * MySQL doesn't default to UTF-8 encoding for strings; it uses Latin-1...
-* MySQL doesn't default to UTC
+* MySQL doesn't default to UTC timezone
 * MySQL has several layers of timezone settings: system, server, and connection timezones
