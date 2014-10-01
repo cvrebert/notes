@@ -14,6 +14,7 @@
 * [Rust: Aliasing + Mutability = Problems](https://air.mozilla.org/guaranteeing-memory-safety-in-rust/)
 * On operator overloading, type conversion, and symmetry
   * [C#: Inconsistent equality](http://www.reddit.com/r/programming/comments/1vae5d/c_inconsistent_equality/)
+* [A Ban on `import`s](http://gbracha.blogspot.com/2009/06/ban-on-imports.html)
 * Scala & Perl suffer from syntactic diabetes
 * http://homotopytypetheory.org/book/
 
