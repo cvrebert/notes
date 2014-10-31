@@ -147,6 +147,7 @@ val result = node match {
     case Floor(f@Floor(_)) => f  // i.e. flooring is idempotent
     case s: String => Integer.parse(s)
     case _ => "not defined"
+    case Array(first, second, _*) => "non-empty list; first item: " + first.toString
 }
  
  
