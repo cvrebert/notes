@@ -15,6 +15,7 @@
 * On operator overloading, type conversion, and symmetry
   * [C#: Inconsistent equality](http://www.reddit.com/r/programming/comments/1vae5d/c_inconsistent_equality/)
 * [A Ban on `import`s](http://gbracha.blogspot.com/2009/06/ban-on-imports.html)
+* [Go at Google: Language Design in the Service of Software Engineering, by Rob Pike at SPLASH 2012](http://talks.golang.org/2012/splash.article)
 * Scala & Perl suffer from syntactic diabetes
 * http://homotopytypetheory.org/book/
 
