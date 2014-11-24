@@ -9,6 +9,7 @@
 * [History.js: History API polyfill/wrapper](https://github.com/browserstate/history.js)
 * [Zed A. Shaw - The Web Will Die When OOP Dies](http://vimeo.com/m/43380467)
 * [Searchable AJAX-powered `<select>` widget](https://github.com/brianreavis/selectize.js)
+* [DOMLint](http://kangax.github.io/domlint/)
 * JS Best Practices? https://news.ycombinator.com/item?id=5393419
   * [Eloquent JavaScript](http://eloquentjavascript.net/contents.html)
   * [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
