@@ -12,5 +12,7 @@
 * MySQL doesn't default to UTF-8 encoding for strings; it uses Latin-1...
 * MySQL doesn't default to UTC timezone
 * MySQL has several layers of timezone settings: system, server, and connection timezones
+* [Terrible choices: MySQL](http://blog.ionelmc.ro/2014/12/28/terrible-choices-mysql/)
+* [MySQL? Choose something else.](http://grimoire.ca/mysql/choose-something-else)
 * Audit logging not built-in
 * Soft deletion not built-in
