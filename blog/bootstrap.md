@@ -1,6 +1,6 @@
 Why Bootstrap
   browser bugs
-  not an artist
+  not an artist, don't have designer at disposal, branding / exact look-and-feel don't matter
   CSS is arcane
 How first involved
   date
@@ -9,6 +9,12 @@ How first involved
   maintainers not active enough
   Haunt script horribleness
 Simple refactorings to reduce duplication in Less source
+docs based on seeing same issues reported repeatedly
+tangent: GitHub bug tracker problems
+  can't force user to fill out form w/ key data
+  no explicit duplicate tracking
+  no "based on search terms, your issue might be similar to" prompt
+  min. viable, w/ nice UI
 Build system, since fat went AFK
 Testability
 Sauce Labs
@@ -47,6 +53,7 @@ HTML sucks
 an advanced video game system with an obtuse and either primitive or oversimplified interface
 "semantic"
   ARIA kinda sorta
+  mdoml
 but it's popular
 but, Web Components!
   damn overcomplicated
