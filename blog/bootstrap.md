@@ -7,18 +7,28 @@ So, let's start at the beginning. Why start using Bootstrap in the first place? 
 
 Why Bootstrap
   CSS is arcane
+
+## Getting involved
+
 How first involved
   date
   triaging issue tracker
   inundated with issues
   maintainers not active enough
   Haunt script horribleness
+  debug stuff
+  JS Bin is nice
+
+## Sending patches
+
 Simple refactorings to reduce duplication in Less source
 The first patches I submitted were simple refactorings to reduce redundancy in the Less source code. Very little Less or CSS knowledge required.
 I also started submitting documentation patches to answer FAQs and common pitfalls that were coming up repeatedly on the issue tracker.
 Build system, since fat went AFK
 Testability
 Sauce Labs
+
+## Going meta
 
 LMVTFY
   validator.nu
@@ -31,26 +41,36 @@ Savage
 Future: No Carrier
 Future: [WebdriverCSS](https://github.com/webdriverio/webdrivercss-adminpanel) or Gemini
 
-Tangent: The Web stack sucks
+customer service, jaded, soul-sucking
+
+## Tangent: The Web stack sucks
+
 [all] [these] [browser] [bugs]
 [how did this pass QA?]
 "leave your sense of logic at the door" indeed
 N different vendors
 design by committee prog langs in general
-JS sucks
+
+### JS sucks
   preface: Python
   `this` craziness
   no integers craziness
   weak typing
   N different module systems
   Wat.
-CSS sucks
+
+JS tooling ecosystem
+  puzzle solving
+  perverse incentives
+  self-inflicted/artificial problems
+
+### CSS sucks
   no module system
   all the selectors suck
   it's the future, where's my damn "has X child" selector yet
   or perhaps, IE sucks
 
-HTML sucks
+### HTML sucks
 an advanced video game system with an obtuse and either primitive or oversimplified interface
 "semantic"
   ARIA kinda sorta
@@ -58,20 +78,15 @@ an advanced video game system with an obtuse and either primitive or oversimplif
 but it's popular
 but, Web Components!
   damn overcomplicated
-Tangent: designer hate
+
+## Tangent: designer hate
   native vs. custom
   they give you the world, and you toss it aside
   you vs. Apple/Microsoft/GoogleAndroid
   folks are familiar with native anyway
-JS tooling ecosystem
-  puzzle solving
-  perverse incentives
-  self-inflicted/artificial problems
 
 ## Tangent: The GitHub issue tracker is mediocre
 The GitHub issue tracker is very simple and lightweight. Aside from its search and milestone features, and its commit message integration, it's close to a minimal viable bug tracking product. It's missing some a few features that would alleviate a lot of pain for projects that get lots of issues.
 * Unlike Bugzilla or Chromium's issue tracker, we can't present a template for the user to fill out when reporting their issue. Thus, issue triagers must waste time posting follow-up comments asking the OP for information that they really ought to have included in the initial post (e.g. What version of the program are you using? What platform are you using? Example that demonstrates the problem (screenshots don't count!)?)
 * No explicit tracking of duplicates.
 * A "similar issues" prompt when reporting new bugs. Bugzilla has this. This makes the "search for duplicates" step of the bug reporting process easier & mandatory. You will quickly learn that without this, many folks won't bother searching for duplicates, or will neglect to include closed issues in the search (Guess what? Your issue was already reported and has been fixed in `master`! We just haven't rolled a release yet.).
-  
-customer service, jaded, soul-sucking
