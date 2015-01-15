@@ -62,3 +62,7 @@ Tangent: designer hate
   they give you the world, and you toss it aside
   you vs. Apple/Microsoft/GoogleAndroid
   folks are familiar with native anyway
+JS tooling ecosystem
+  puzzle solving
+  perverse incentives
+  self-inflicted/artificial problems
