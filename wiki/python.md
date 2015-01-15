@@ -1,3 +1,4 @@
+* Testing tools: https://wiki.python.org/moin/PythonTestingToolsTaxonomy
 * Compute a property lazily and only once: http://pypi.python.org/pypi/lazy
 
 To disable nose and pylint simultaneously:
