@@ -50,13 +50,24 @@ Sauce Labs
 
 ## Going meta
 
-LMVTFY
-  validator.nu
-  Scala Akka Spray
-Rorschach
-Savage
+By this point, the number of spurious bug reports starts to get to me. They tend to fall into a few general categories:
+* Malformed HTML
+* Not adhering to the DOM structure prescribed by the docs
+* Not including jQuery
+
+And thus I had the germ of the idea for [LMVTFY](https://github.com/cvrebert/lmvtfy) and [Bootlint](https://github.com/twbs/bootlint)
+I was (and still mostly am) enfatuated with Scala at the time, so I used this as an excuse to learn and try out Akka and Spray (I mean, the actor model is the future, right?)
+Also [the HTML5 validator](https://github.com/validator/validator) is in Java, so a JVM language seems like an easy way to integrate with it.
+
+[Rorschach](https://github.com/twbs/rorschach)
+The basic problem is folks who don't understand the project structure and try to make changes directly to the compiled CSS instead of the source Less. Rorschach has seen less action than I'd anticipated, having lived through the pre-v3 era, but I speculate that contributions will ramp up in the pre-v4 era.
+
+For such a large project, the testing was fairly basic. The closest thing to CSS testing is looking through the docs. Mostly relied on hordes of users manually testing by finding issues in their own apps.
+
+[Savage](https://github.com/twbs/savage)
   the Sauce/Travis bug
-[Gruntworker](https://github.com/twbs/gruntworker/)
+
+Most recently, I wrote [Gruntworker](https://github.com/twbs/gruntworker/), a simple script to keep our dist files up to date (if we're gonna have generated artifacts in the repo, we might as well completely automate the generation and keep it from ever getting too outdated).
 
 Future: No Carrier
 Future: [WebdriverCSS](https://github.com/webdriverio/webdrivercss-adminpanel) or Gemini
