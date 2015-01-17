@@ -10,7 +10,22 @@ So, let's start at the beginning. Why start using Bootstrap in the first place? 
 ## Getting involved
 
 How first involved
-  date
+
+First somewhat nontrivial commit
+```
+fixes #5494: style invalid fields as invalid regardless of required-ness
+commit 76f9c9128e95f55efee66ade30b7f8a31b34208e
+Author: Chris Rebert
+Date:   Sun Nov 4 18:26:25 2012 -0800
+```
+First refactoring commit
+```
+refactor tables.less to use nesting more
+commit da072fff21f565521d3dbe1f5f4f42550ecc989e
+Author: Chris Rebert
+Date:   Tue Jul 2 11:25:57 2013 -0700
+```
+
   triaging issue tracker
   inundated with issues
   maintainers not active enough
