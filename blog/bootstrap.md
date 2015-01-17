@@ -26,7 +26,13 @@ Author: Chris Rebert
 Date:   Tue Jul 2 11:25:57 2013 -0700
 ```
 
-  triaging issue tracker
+### Triage
+* [3,326 issues commented on](https://github.com/twbs/bootstrap/issues?q=commenter%3Acvrebert+type%3Aissue+-author%3Acvrebert) (as of 2014-01-16, excludes PRs, excludes issues I opened)
+  * Assuming I started triaging with the first refactoring commit on 2013-07-02, that equates to:
+    * ~5.9 issues per day
+    * approx one issue every 4 hours
+    * TL;DR: Bootstrap is crazy popular
+
   inundated with issues
   maintainers not active enough
   Haunt script horribleness
