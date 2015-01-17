@@ -59,6 +59,9 @@ And thus I had the germ of the idea for [LMVTFY](https://github.com/cvrebert/lmv
 I was (and still mostly am) enfatuated with Scala at the time, so I used this as an excuse to learn and try out Akka and Spray (I mean, the actor model is the future, right?)
 Also [the HTML5 validator](https://github.com/validator/validator) is in Java, so a JVM language seems like an easy way to integrate with it.
 
+As for Bootlint, it needed to work on the command line to be able to interact with people on the issue tracker, and having folks be able to use it in the browser is a plus, thus, it's in JavaScript (sigh), although very strictly linted and pretty well unit-tested JS.
+Had to dig through a couple layers of Cheerio's dependency stack to get my main feature [outputting the line (and column) number where each mistake is](https://github.com/twbs/bootlint/issues/29)
+
 [Rorschach](https://github.com/twbs/rorschach)
 The basic problem is folks who don't understand the project structure and try to make changes directly to the compiled CSS instead of the source Less. Rorschach has seen less action than I'd anticipated, having lived through the pre-v3 era, but I speculate that contributions will ramp up in the pre-v4 era.
 
@@ -66,10 +69,18 @@ For such a large project, the testing was fairly basic. The closest thing to CSS
 
 [Savage](https://github.com/twbs/savage)
   the Sauce/Travis bug
+  Sauce claimed to be working on it a while ago, but there have been no public updates since then.
 
 Most recently, I wrote [Gruntworker](https://github.com/twbs/gruntworker/), a simple script to keep our dist files up to date (if we're gonna have generated artifacts in the repo, we might as well completely automate the generation and keep it from ever getting too outdated).
 
 Future: No Carrier
+Problems of the issue tracker:
+* overall, folks expecting responses to posts on long-closed issues that aren't really being monitored anymore. 
+* people thinking a long-closed issue is related to a current bug that they're seeing
+  * often it's only superficially related
+  * if it's a real regression, we'd much rather open a new bug to specifically track a regression anyway
+  * +1's and "thanks" noise
+
 Future: [WebdriverCSS](https://github.com/webdriverio/webdrivercss-adminpanel) or Gemini
 
 customer service, jaded, soul-sucking
