@@ -2,11 +2,10 @@
 So, let's start at the beginning. Why start using Bootstrap in the first place? Bootstrap appeals to a few different audiences, but for me as a backend developer, I started using it for internal apps because:
 * I would like my app to not look completely plain/barebones, as it would without any CSS (or barely any CSS).
 * Since this is an internal app, I don't have any significant branding or exact look-and-feel requirements that I'm required to adhere to.
-* I am not an artist and don't have a designer at my disposal. It would be difficult to come up with a nice-looking visual design on my own.
-* I want to avoid having to directly deal with browser bugs as much as possible. Bootstrap works around (or at least documents) various browser bugs so I don't have to.
-
-Why Bootstrap
-  CSS is arcane
+* I am not an artist/designer and don't have one at my disposal. It would be difficult to come up with a pleasing visual design on my own from scratch.
+* CSS can be rather arcane. Outwardly, the common "Holy Grail Layout" looks simple and reasonable, yet there are entire articles on how to achieve it in CSS with varying degrees of kludginess. There are several other examples of simple things requiring unnecessary complexity.
+  * (Yes, [flexbox now makes this particular case pretty simple](http://philipwalton.github.io/solved-by-flexbox/demos/holy-grail/) and sane, but browser support limitations (and [bugs in some versions of the implementations](https://github.com/philipwalton/flexbugs)) prevent it from being a option for lots of folks.)
+* I want to avoid having to directly deal with browser bugs and inconsistencies as much as possible. Bootstrap works around (or at least documents) these so I don't have to.
 
 ## Getting involved
 
