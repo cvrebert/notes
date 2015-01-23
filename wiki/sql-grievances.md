@@ -16,3 +16,4 @@
 * [MySQL? Choose something else.](http://grimoire.ca/mysql/choose-something-else)
 * Audit logging not built-in
 * Soft deletion not built-in
+* Trailing/leading spaces in text fields
