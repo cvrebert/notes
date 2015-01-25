@@ -1,3 +1,15 @@
+## Not as simple as you thought: the humble `<input type="text">`
+* Doing the bare minimum is trivial. Doing it with optimal UX isn't.
+* https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input
+* `autocapitalize`: `none`/etc. E.g. Stop trying to capitalize my username
+* `autocomplete="off"` (if you want to avoid the Firefox persistent disabledness bug)
+* I know how my username is spelled, dammit!
+  * `autocorrect="off"`
+  * `spellcheck="false"`
+* `inputmode`
+  * `verbatim` for non-prose
+  * `numeric` for ID "numbers"
+
 ## Tangent: The Web stack sucks
 
 [all] [these] [browser] [bugs]
