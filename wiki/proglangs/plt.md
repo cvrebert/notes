@@ -21,6 +21,7 @@
 * [Toward a better programming](http://www.chris-granger.com/2014/03/27/toward-a-better-programming/)
 * [Oberon - The Overlooked Jewel, by Michael Franz](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.103.7874&rank=1)
 * [Gradual Typing for Functional Languages](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.61.8890)
+* [Liquid Types](http://goto.ucsd.edu/~rjhala/papers/liquid_types.pdf)
 * Scala & Perl suffer from syntactic diabetes
 * http://homotopytypetheory.org/book/
 
