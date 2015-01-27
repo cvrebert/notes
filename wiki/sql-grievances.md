@@ -1,6 +1,7 @@
-(Postgres fixes at least some of these.)
+(Postgres fixes at least some of these. I've only had hands-on experience with MySQL.)
 
 * No first-class list/array support
+  * [SQLAlchemy workaround](http://docs.sqlalchemy.org/en/latest/orm/extensions/orderinglist.html)
 * Having to manually specify `JOIN` conditions, when very often there's only 1 sensible way to do the JOIN
 * SQL's syntax isn't nicely composable.
   * e.g. I can't just tack on another `WHERE` clause to filter things further, the clauses must appear in a specific order, etc.
