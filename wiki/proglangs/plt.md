@@ -20,6 +20,7 @@
 * [The issue is that programming languages don¹t go forward, they move sideways or diagonally, or sometimes backwards.](http://chrisdone.com/posts/one-step-forward-two-steps-back)
 * [Toward a better programming](http://www.chris-granger.com/2014/03/27/toward-a-better-programming/)
 * [Oberon - The Overlooked Jewel, by Michael Franz](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.103.7874&rank=1)
+* [Gradual Typing for Functional Languages](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.61.8890)
 * Scala & Perl suffer from syntactic diabetes
 * http://homotopytypetheory.org/book/
 
