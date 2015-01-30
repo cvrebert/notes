@@ -1,3 +1,4 @@
+* [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/)
 * Testing tools: https://wiki.python.org/moin/PythonTestingToolsTaxonomy
   * Branch coverage: [Instrumental](http://instrumental.readthedocs.org/en/latest/index.html)
   * [testfixtures](https://pypi.python.org/pypi/testfixtures)
