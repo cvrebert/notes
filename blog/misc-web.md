@@ -9,6 +9,11 @@
 * `inputmode`
   * `verbatim` for non-prose
   * `numeric` for ID "numbers"
+* `autofocus`, on a page-wide basis
+* Griping about `:invalid`
+* Leading/trailing spaces
+* Masking out invalid characters
+* Ignoring punctuation
 
 ## Tangent: The Web stack sucks
 
