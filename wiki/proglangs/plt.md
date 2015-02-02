@@ -23,6 +23,7 @@
 * [Gradual Typing for Functional Languages](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.61.8890)
 * [Liquid Types](http://goto.ucsd.edu/~rjhala/papers/liquid_types.pdf)
 * [Progressive Types; Politz; Brown Univ.](http://cs.brown.edu/research/plt/dl/progressive-types/progressive-types.pdf)
+* [Cross-language syntax comparison](http://rigaux.org/language-study/syntax-across-languages/)
 * "Make illegal behavioral interactions (particularly WRT subclassing) fail to compile"
   * Avoid bidirectional relationships between components
   * Composition over inheritance
