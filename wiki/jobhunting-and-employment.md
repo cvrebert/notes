@@ -1,3 +1,5 @@
 * [How Liquidation Preferences Work](http://www.businessinsider.com/how-liquidation-preferences-work-2014-3)
 * [Startup Employee Equity Bill of Rights](http://www.businessinsider.com/startup-employee-equity-bill-of-rights-2014-3)
 * [Employees That Stay In Companies Longer Get Paid Less](http://www.forbes.com/sites/cameronkeng/2014/06/22/employees-that-stay-in-companies-longer-than-2-years-get-paid-50-less/) ([HN](https://news.ycombinator.com/item?id=7928008))
+* [Most software engineering interview questions of hot tech companies in one place](http://www.reddit.com/r/programming/comments/2q78ze/most_software_engineering_interview_questions_of)
+* [Salary comparisons](http://www.reddit.com/r/personalfinance/comments/2t1zds/i_currently_make_71500_i_was_offered_a_promotion/cnv0fau)
