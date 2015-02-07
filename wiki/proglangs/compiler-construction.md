@@ -13,3 +13,4 @@
 * [Reactive Extensions: Rx](https://rx.codeplex.com/)
 * [Let's Write an LLVM Specializer for Python](http://dev.stephendiehl.com/numpile/)
 * [Compiler Design in C](http://www.holub.com/software/compiler.design.in.c.html)
+* [Some problems of recursive descent parsers](http://eli.thegreenplace.net/2009/03/14/some-problems-of-recursive-descent-parsers)
