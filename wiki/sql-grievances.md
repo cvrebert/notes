@@ -18,3 +18,5 @@
 * Audit logging not built-in
 * Soft deletion not built-in
 * Trailing/leading spaces in text fields
+* Trees are kinda cumbersome
+  * However: [Representing Trees in PostgreSQL](https://woss.name/articles/representing-trees-in-postgresql/) ([HN](https://news.ycombinator.com/item?id=8642035))
