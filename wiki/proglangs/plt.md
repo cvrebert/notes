@@ -36,6 +36,7 @@
 * [Callbacks: What color is your function?](http://www.reddit.com/r/programming/comments/2ugvzr/what_color_is_your_function/)
 * [Practical Category Theory](http://www.infoq.com/presentations/functional-category-theory)
 * [Refinements in Ruby 2.1](http://rkh.im/ruby-2.1)
+* [Dependent Types At Work](http://www.cse.chalmers.se/~peterd/papers/DependentTypesAtWork.pdf)
 
 > barrkel on HN:
 > There's a simple concept that one should bear in mind when designing APIs: "pit of success" (credit to Rico Mariani).
