@@ -2,3 +2,4 @@
 * [Use of Formal Methods at AWS](http://research.microsoft.com/en-us/um/people/lamport/tla/amazon.html)
 * [Akka Cheatsheet](https://github.com/sjuvekar/reactive-programming-scala/blob/master/ReactiveCheatSheet.md)
 * [A Practical Soft Type System for Scheme](http://www.cs.rice.edu/CS/PLT/Publications/Scheme/lfp94-wc.ps.gz)
+* [Knockout 3.2.0](http://blog.stevensanderson.com/2014/08/18/knockout-3-2-0-released/)
