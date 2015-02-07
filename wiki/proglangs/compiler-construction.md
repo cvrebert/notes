@@ -12,3 +12,4 @@
 * [The Joy of Joy](http://ncreep.github.io/language_perils/blog/2013-03-18-the-joy-of-joy.html)
 * [Multi-assignment syntax](https://blog.mozilla.org/dherman/2011/12/01/now-thats-a-nice-stache/)
 * [Reactive Extensions: Rx](https://rx.codeplex.com/)
+* [Let's Write an LLVM Specializer for Python](http://dev.stephendiehl.com/numpile/)
