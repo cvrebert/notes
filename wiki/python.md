@@ -6,6 +6,7 @@
 * Profiling in production
  * [statprof](https://pypi.python.org/pypi/statprof/) - profiling via statistical sampling
  * [Python Low-Overhead Profiler](https://github.com/bdarnell/plop)
+* [Vulture - dead code finder](http://pypi.python.org/pypi/vulture)
 
 To disable nose and pylint simultaneously:
 ```py
