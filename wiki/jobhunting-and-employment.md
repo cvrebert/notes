@@ -6,3 +6,4 @@
 * [Salary comparisons](http://www.reddit.com/r/personalfinance/comments/2t1zds/i_currently_make_71500_i_was_offered_a_promotion/cnv0fau)
 * [Questions to ask your potential employer](http://www.stefankendall.com/2013/11/10-questions-to-ask-your-potential.html) ([HN](https://news.ycombinator.com/item?id=6701707))
 * [How do you get Google/Microsoft/Facebook's recruiters' attention?](http://www.quora.com/Engineering-Recruiting/How-do-you-get-Google-Microsoft-Facebooks-recruiter-attention-as-a-student)
+* [Google employees confess the worst things about working at Google](http://www.reddit.com/r/programming/comments/1pto3b/google_employees_confess_the_worst_things_about/)
