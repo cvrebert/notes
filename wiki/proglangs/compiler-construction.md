@@ -6,10 +6,10 @@
 * [inline cache applications in scheme](http://wingolog.org/archives/2012/05/29/inline-cache-applications-in-scheme)
 * [Mapping High-Level Constructs to LLVM IR](http://llvm.lyngvig.org/Articles/Mapping-High-Level-Constructs-to-LLVM-IR)
 * [MinCaml: Beautiful Japan's ML Compiler](http://esumii.github.io/min-caml/index-e.html)
-
 * [So, You Want To Write Your Own Language? (by Walter Bright)](http://www.reddit.com/r/programming/comments/1vtm2l/so_you_want_to_write_your_own_language_dr_dobbs/)
 * [Growing a Language, by Guy Steele (OOPSLA, 1998)](http://www.reddit.com/r/programming/comments/19gsaz/growing_a_language_by_guy_steele_oopsla_1998/)
 * [The Joy of Joy](http://ncreep.github.io/language_perils/blog/2013-03-18-the-joy-of-joy.html)
 * [Multi-assignment syntax](https://blog.mozilla.org/dherman/2011/12/01/now-thats-a-nice-stache/)
 * [Reactive Extensions: Rx](https://rx.codeplex.com/)
 * [Let's Write an LLVM Specializer for Python](http://dev.stephendiehl.com/numpile/)
+* [Compiler Design in C](http://www.holub.com/software/compiler.design.in.c.html)
