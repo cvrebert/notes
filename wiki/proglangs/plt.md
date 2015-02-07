@@ -29,6 +29,7 @@
   * Composition over inheritance
 * Scala & Perl suffer from syntactic diabetes
 * http://homotopytypetheory.org/book/
+* [So you want to learn type theory... but where to start? Here are some suggestions.](http://purelytheoretical.com/sywtltt.html)
 
 > barrkel on HN:
 > There's a simple concept that one should bear in mind when designing APIs: "pit of success" (credit to Rico Mariani).
