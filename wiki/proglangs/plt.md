@@ -32,6 +32,7 @@
 * [So you want to learn type theory... but where to start? Here are some suggestions.](http://purelytheoretical.com/sywtltt.html)
 * [Ada, C, C++, and Java vs. The Steelman](http://www.dwheeler.com/steelman/steeltab.htm)
 * [Program-Transformation.Org, The Program Transformation Wiki](http://www.program-transformation.org/)
+* ["Data oriented" demo of Jonathan Blow's new language](http://www.reddit.com/r/programming/comments/2t7wuu/data_oriented_demo_of_jonathan_blows_new_language/)
 
 > barrkel on HN:
 > There's a simple concept that one should bear in mind when designing APIs: "pit of success" (credit to Rico Mariani).
