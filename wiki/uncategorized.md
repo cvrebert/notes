@@ -8,3 +8,4 @@
 * [Odersky: The trouble with types](http://www.reddit.com/r/programming/comments/1ptiy2/martin_odersky_the_trouble_with_types/)
 * [Simon Peyton Jones - Haskell is useless](http://www.reddit.com/r/programming/comments/1pstav/haskell_is_useless/)
 * [Intro to Moose](http://www.houseabsolute.com/presentations/intro-moose-class/)
+* [Everything is a stream](http://deanwampler.github.io/polyglotprogramming/papers/ReactiveDesignLanguagesAndParadigms.pdf)
