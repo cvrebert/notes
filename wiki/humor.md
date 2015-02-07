@@ -5,3 +5,4 @@
 * [The Birth and Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
 * [Cocktails for programmers](https://github.com/the-teacher/cocktails_for_programmers/blob/master/cocktails_for_programers.md)
 * [If programming languages were cars](http://users.cms.caltech.edu/~mvanier/hacking/rants/cars.html)
+* [Nepal Standard Time = UTC+12:45](https://en.wikipedia.org/wiki/Nepal_Standard_Time)
