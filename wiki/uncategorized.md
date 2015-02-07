@@ -4,3 +4,4 @@
 * [A Practical Soft Type System for Scheme](http://www.cs.rice.edu/CS/PLT/Publications/Scheme/lfp94-wc.ps.gz)
 * [Knockout 3.2.0](http://blog.stevensanderson.com/2014/08/18/knockout-3-2-0-released/)
 * http://www.forbes.com/sites/travisbradberry/2014/02/06/how-successful-people-stay-calm/
+* [The Essence of Algol](http://www.cs.cmu.edu/~crary/819-f09/Reynolds81.ps)
