@@ -11,3 +11,4 @@
 * [Everything is a stream](http://deanwampler.github.io/polyglotprogramming/papers/ReactiveDesignLanguagesAndParadigms.pdf)
 * [Further app arch](http://martinfowler.com/eaaDev/)
 * [The little manual of API design](http://www4.in.tum.de/~blanchet/api-design.pdf)
+* [A Programmer's Guide to Data Mining](http://guidetodatamining.com)
