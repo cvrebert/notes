@@ -8,6 +8,7 @@
  * [Python Low-Overhead Profiler](https://github.com/bdarnell/plop)
 * [Vulture - dead code finder](http://pypi.python.org/pypi/vulture)
 * https://pypi.python.org/pypi/caniusepython3
+* [GvR explains Twisted Deferreds](https://groups.google.com/forum/#!topic/python-tulip/ut4vTG-08k8/discussion)
 
 To disable nose and pylint simultaneously:
 ```py
