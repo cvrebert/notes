@@ -37,6 +37,7 @@
 * [Practical Category Theory](http://www.infoq.com/presentations/functional-category-theory)
 * [Refinements in Ruby 2.1](http://rkh.im/ruby-2.1)
 * [Dependent Types At Work](http://www.cse.chalmers.se/~peterd/papers/DependentTypesAtWork.pdf)
+* [The theory behind covariance and contravariance in C# 4](http://www.reddit.com/r/programming/comments/v9uk6/the_theory_behind_covariance_and_contravariance/)
 
 > barrkel on HN:
 > There's a simple concept that one should bear in mind when designing APIs: "pit of success" (credit to Rico Mariani).
