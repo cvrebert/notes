@@ -14,3 +14,4 @@
 * [A Programmer's Guide to Data Mining](http://guidetodatamining.com)
 * [CONS Should Not CONS Its Arguments, Part II](http://www.pipeline.com/~hbaker1/CheneyMTA.html)
 * http://www.cs.princeton.edu/~rs/talks/ScienceCS10.pdf
+* [The Downfall of Imperative Programming](http://www.reddit.com/r/programming/comments/s112h/the_downfall_of_imperative_programming_functional/)
