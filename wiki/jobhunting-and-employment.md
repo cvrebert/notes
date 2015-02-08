@@ -9,3 +9,4 @@
 * [Google employees confess the worst things about working at Google](http://www.reddit.com/r/programming/comments/1pto3b/google_employees_confess_the_worst_things_about/)
 * [What's the best place to find Scala job postings?](http://www.reddit.com/r/scala/comments/2t86tt/whats_the_best_place_to_find_scala_job_postings/)
 * [Top Recruiter Reveals the Perfect Technical Resume](http://www.careercommits.com/blog/top-recruiter-reveals-the-perfect-technical-resume/)
+* [Startup vs. Corporate Life](http://blog.lawnstarter.com/post/87331474878/startup-vs-corporate-life) ([HN](https://news.ycombinator.com/item?id=7825818))
