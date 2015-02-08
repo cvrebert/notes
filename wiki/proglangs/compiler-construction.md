@@ -15,3 +15,4 @@
 * [Compiler Design in C](http://www.holub.com/software/compiler.design.in.c.html)
 * [Some problems of recursive descent parsers](http://eli.thegreenplace.net/2009/03/14/some-problems-of-recursive-descent-parsers)
 * [LL and LR in Context: Why Parsing Tools Are Hard](http://blog.reverberate.org/2013/09/ll-and-lr-in-context-why-parsing-tools.html)
+* http://www.reddit.com/r/programming/comments/1sl483/stanford_computer_science_lectures_about/
