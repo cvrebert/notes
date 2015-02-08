@@ -9,6 +9,7 @@
 * Quoting of names varies by SQL implementation; e.g. `[MyArbitrarilyNamedTable]` in MS SQL Server vs. `` `MyArbitrarilyNamedTable` `` in MySQL
 * Column type definitions default to nullable, implicitly.
 * Too easy to accidentally write an unindexed query; should issue a warning which can be upgraded to an error via configuration
+  * [Coping mechanism](http://danbirken.com/quicktip/2014/04/16/improve-developer-habits-with-db-diagnostisc.html)
 * Awkwardness of "backwards" JOINs
 * MySQL doesn't default to UTF-8 encoding for strings; it uses Latin-1...
 * MySQL doesn't default to UTC timezone
