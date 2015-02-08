@@ -10,3 +10,4 @@
 * [Intro to Moose](http://www.houseabsolute.com/presentations/intro-moose-class/)
 * [Everything is a stream](http://deanwampler.github.io/polyglotprogramming/papers/ReactiveDesignLanguagesAndParadigms.pdf)
 * [Further app arch](http://martinfowler.com/eaaDev/)
+* [The little manual of API design](http://www4.in.tum.de/~blanchet/api-design.pdf)
