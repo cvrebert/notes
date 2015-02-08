@@ -13,3 +13,4 @@
 * [The little manual of API design](http://www4.in.tum.de/~blanchet/api-design.pdf)
 * [A Programmer's Guide to Data Mining](http://guidetodatamining.com)
 * [CONS Should Not CONS Its Arguments, Part II](http://www.pipeline.com/~hbaker1/CheneyMTA.html)
+* http://www.cs.princeton.edu/~rs/talks/ScienceCS10.pdf
