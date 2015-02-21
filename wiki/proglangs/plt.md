@@ -14,8 +14,6 @@
 * [Rust: Aliasing + Mutability = Problems](https://air.mozilla.org/guaranteeing-memory-safety-in-rust/)
 * On operator overloading, type conversion, and symmetry
   * [C#: Inconsistent equality](http://www.reddit.com/r/programming/comments/1vae5d/c_inconsistent_equality/)
-* [A Ban on `import`s](http://gbracha.blogspot.com/2009/06/ban-on-imports.html)
-* [How `import` Works (PyCon)](http://pyvideo.org/video/1707/how-import-works)
 * [Go at Google: Language Design in the Service of Software Engineering, by Rob Pike at SPLASH 2012](http://talks.golang.org/2012/splash.article)
 * [The issue is that programming languages don¹t go forward, they move sideways or diagonally, or sometimes backwards.](http://chrisdone.com/posts/one-step-forward-two-steps-back)
 * [Toward a better programming](http://www.chris-granger.com/2014/03/27/toward-a-better-programming/)
