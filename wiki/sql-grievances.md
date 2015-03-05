@@ -21,3 +21,5 @@
 * Trailing/leading spaces in text fields
 * Trees are kinda cumbersome
   * However: [Representing Trees in PostgreSQL](https://woss.name/articles/representing-trees-in-postgresql/) ([HN](https://news.ycombinator.com/item?id=8642035))
+* SQL is not the last word in databases
+  * [Immutable databases and automatic caching](http://blog.confluent.io/2015/03/04/turning-the-database-inside-out-with-apache-samza/)
