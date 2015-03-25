@@ -16,3 +16,4 @@
 * http://www.cs.princeton.edu/~rs/talks/ScienceCS10.pdf
 * [The Downfall of Imperative Programming](http://www.reddit.com/r/programming/comments/s112h/the_downfall_of_imperative_programming_functional/)
 * [C11: A New C Standard Aiming at Safer Programming](http://blog.smartbear.com/codereviewer/c11-a-new-c-standard-aiming-at-safer-programming/)
+* [Machine Learning for Programming](http://www.infoq.com/presentations/machine-learning-general-programming)
