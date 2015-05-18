@@ -57,6 +57,8 @@ By this point, the number of spurious bug reports starts to get to me. They tend
 * Many duplicate issues
   * Duplicates of issues fixed in `master` and thus closed
 
+(Cite Brooks' Law)
+
 And thus I had the germ of the idea for [LMVTFY](https://github.com/cvrebert/lmvtfy) and [Bootlint](https://github.com/twbs/bootlint)
 I was (and still mostly am) enfatuated with Scala at the time, so I used this as an excuse to learn and try out Akka and Spray (I mean, the actor model is the future, right?)
 Also [the HTML5 validator](https://github.com/validator/validator) is in Java, so a JVM language seems like an easy way to integrate with it.
