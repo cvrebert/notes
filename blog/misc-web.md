@@ -62,3 +62,16 @@ The GitHub issue tracker is very simple and lightweight. Aside from its search a
 * Unlike Bugzilla or Chromium's issue tracker, we can't present a template for the user to fill out when reporting their issue. Thus, issue triagers must waste time posting follow-up comments asking the OP for information that they really ought to have included in the initial post (e.g. What version of the program are you using? What platform are you using? Example that demonstrates the problem (screenshots don't count!)?)
 * No explicit tracking of duplicates.
 * A "similar issues" prompt when reporting new bugs. Bugzilla has this. This makes the "search for duplicates" step of the bug reporting process easier & mandatory. You will quickly learn that without this, many folks won't bother searching for duplicates, or will neglect to include closed issues in the search (Guess what? Your issue was already reported and has been fixed in `master`! We just haven't rolled a release yet.).
+
+# Tangent: Bower / Web packaging sucks
+deps on bootstrap-sass vs. bootstrap-less (vs. hypothetical bootstrap-css)
+bower expects tools to trace the dep tree themselves
+`main` fiasco
+module formats
+tip about `version` being optional
+bower should error on asterisks in `main`
+bower should warn on CSS+(SASS/Less) in `main`
+bower should warn on fonts or images in `main`
+bower should warn on minified files in `main`
+  * https://github.com/bower/bower/commit/1690dd4728c56803093428a61154300530f6cdd9
+bower is too unopinionated
