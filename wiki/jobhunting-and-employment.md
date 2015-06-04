@@ -4,7 +4,7 @@
 * [Employees That Stay In Companies Longer Get Paid Less](http://www.forbes.com/sites/cameronkeng/2014/06/22/employees-that-stay-in-companies-longer-than-2-years-get-paid-50-less/) ([HN](https://news.ycombinator.com/item?id=7928008))
 * [Most software engineering interview questions of hot tech companies in one place](http://www.reddit.com/r/programming/comments/2q78ze/most_software_engineering_interview_questions_of)
 * [Salary comparisons](http://www.reddit.com/r/personalfinance/comments/2t1zds/i_currently_make_71500_i_was_offered_a_promotion/cnv0fau)
-* [Questions to ask your potential employer](http://www.stefankendall.com/2013/11/10-questions-to-ask-your-potential.html) ([HN](https://news.ycombinator.com/item?id=6701707))
+* [Questions to ask your potential employer](https://web.archive.org/web/20140101200009/http://www.stefankendall.com/2013/11/10-questions-to-ask-your-potential.html) ([HN](https://news.ycombinator.com/item?id=6701707))
 * [How do you get Google/Microsoft/Facebook's recruiters' attention?](http://www.quora.com/Engineering-Recruiting/How-do-you-get-Google-Microsoft-Facebooks-recruiter-attention-as-a-student)
 * [Google employees confess the worst things about working at Google](http://www.reddit.com/r/programming/comments/1pto3b/google_employees_confess_the_worst_things_about/)
 * [What's the best place to find Scala job postings?](http://www.reddit.com/r/scala/comments/2t86tt/whats_the_best_place_to_find_scala_job_postings/)
