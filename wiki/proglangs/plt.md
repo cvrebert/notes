@@ -36,6 +36,7 @@
 * [Refinements in Ruby 2.1](http://rkh.im/ruby-2.1)
 * [Dependent Types At Work](http://www.cse.chalmers.se/~peterd/papers/DependentTypesAtWork.pdf)
 * [The theory behind covariance and contravariance in C# 4](http://www.reddit.com/r/programming/comments/v9uk6/the_theory_behind_covariance_and_contravariance/)
+* [Sylph: the programming language I want, by eevee](eev.ee/blog/2015/02/28/sylph-the-programming-language-i-want/)
 
 > barrkel on HN:
 > There's a simple concept that one should bear in mind when designing APIs: "pit of success" (credit to Rico Mariani).
