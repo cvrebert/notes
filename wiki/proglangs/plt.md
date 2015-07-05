@@ -38,6 +38,7 @@
 * [The theory behind covariance and contravariance in C# 4](http://www.reddit.com/r/programming/comments/v9uk6/the_theory_behind_covariance_and_contravariance/)
 * [Sylph: the programming language I want, by eevee](eev.ee/blog/2015/02/28/sylph-the-programming-language-i-want/)
 * [Compiler Errors for Humans](http://elm-lang.org/blog/compiler-errors-for-humans) (compiler error message UX)
+* [Things Rust shipped without](http://graydon2.dreamwidth.org/218040.html)
 
 > barrkel on HN:
 > There's a simple concept that one should bear in mind when designing APIs: "pit of success" (credit to Rico Mariani).
