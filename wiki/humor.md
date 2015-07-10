@@ -7,3 +7,4 @@
 * [If programming languages were cars](http://users.cms.caltech.edu/~mvanier/hacking/rants/cars.html)
 * [Nepal Standard Time = UTC+12:45](https://en.wikipedia.org/wiki/Nepal_Standard_Time)
 * [The Emularity — January 23, 2015 (Jason Scott)](http://ascii.textfiles.com/archives/4546) (Running Windows 3.1 in JavaScript)
+* [Relentless Persistence - July 9, 2015 (Cube Drone)](http://cube-drone.com/comics/c/relentless-persistence). The JavaScript ecosystem.
