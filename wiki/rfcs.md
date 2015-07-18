@@ -2,3 +2,4 @@
 * [RFC 6901: JSON Pointer](http://tools.ietf.org/html/rfc6901)
 * [RFC 6570: URI Templates](http://tools.ietf.org/html/rfc6570)
 * [RFC 7493: The I-JSON Message Format](https://tools.ietf.org/html/rfc7493)
+* [Problem Details for HTTP APIs (draft-ietf-appsawg-http-problem-00)](https://tools.ietf.org/html/draft-ietf-appsawg-http-problem-00)
