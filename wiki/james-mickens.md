@@ -1,6 +1,6 @@
 He is Infallible; You Are Lucky to Receive His Wisdom
 
-* ~~http://research.microsoft.com/en-us/people/mickens/~~
+* https://web.archive.org/web/20150606055853/http://research.microsoft.com/en-us/people/mickens/
   * [Atlantis: Robust, Extensible Execution Environments for Web Applications](http://www.youtube.com/watch?v=4c0DdOvH6lg)
   * [Computers are a Sadness, I am the Cure – Monitorama PDX 2014](https://vimeo.com/95066828)
   * Usenix humor columns
