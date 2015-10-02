@@ -4,3 +4,4 @@
  * https://github.com/audreyr/cookiecutter
 * have an automatic style enforce/formatter, ala `gofmt`
 * Powerful std lib: http://www.rebol.com/oneliners.html
+* have a wonderful IDE: http://worrydream.com/LearnableProgramming/
