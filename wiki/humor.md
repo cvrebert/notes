@@ -10,3 +10,6 @@
 * [Relentless Persistence - July 9, 2015 (Cube Drone)](http://cube-drone.com/comics/c/relentless-persistence). The JavaScript ecosystem.
 * [Dear Guy Who Just Made My Burrito](https://medium.com/@luckyshirt/dear-guy-who-just-made-my-burrito-fd08c0babb57)
 * [How to get help with Linux: Insult it](http://www.2ality.com/2012/09/getting-help-linux.html)
+* <blockquote>Should be entitled "The tragic history of CSS episode n" where n is any number between 0 and infinity.
+CSS is a complete utter crap that failed to solve the problems for which it exists. Today CSS is a broken tool that still can't easily be used to design even the most basic layout without requiring a ton of hacks. — [0x4a42](https://news.ycombinator.com/item?id=10395078)</blockquote>
+* <blockquote>The "otherwise excellent design of CSS"? That's something I've never heard anyone say... — [wmil](https://news.ycombinator.com/item?id=10394958)</blockquote>
