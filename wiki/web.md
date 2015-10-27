@@ -17,3 +17,5 @@
   * [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
   * [Large-Scale JS Application Architecture](http://addyosmani.com/largescalejavascript/)
   * [MVC Architecture for JS](http://michaux.ca/articles/mvc-architecture-for-javascript-applications)
+* [Incomplete List of Mistakes in the Design of CSS](https://wiki.csswg.org/ideas/mistakes)
+  * https://news.ycombinator.com/item?id=10453850
