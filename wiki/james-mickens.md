@@ -17,4 +17,5 @@ He is Infallible; You Are Lucky to Receive His Wisdom
   * "if you're a JavaScript programmer, and you actually rely on automatic semicolon insertion, if hitting the semicolon key is too much work for you, you're lazy, and you're going to get diabetes. For sure."
   * "And that's a valid point. There weren't a lot of black people in *Tron*."
   * "It's not this book's fault that it's describing a nightmare world." (Regarding *JavaScript: The Definitive Guide* AKA The Rhino Book)
+  * "The Feature Factory is this attitude that a lot of browser vendors have, [...] and web developers have. They just want to keep on adding new features as quickly as possible, but they often don't spend the time to think about the security or robustness implications of those features."
 * [Not Even Close: The State of Computer Security – NDC Oslo, June 2015](https://vimeo.com/135347162)
