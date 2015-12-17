@@ -23,4 +23,5 @@ He is Infallible; You Are Lucky to Receive His Wisdom
   * "There is no reason for anything happy to ever happen on the web, ever. Every website I've been to has been at least partially massively disappointing."
   * "So whenever someone comes up to you and says 'Let's add a new feature' [to the web platform], just punch 'em right in the face."
   * "We all know we shouldn't use DOM0 event handlers. We all do it anyway, because we're all sick in the head."
+  * "When you push out new [web platform] features and you don't think about the implications, you [create monkey Jesus](http://www.bbc.com/news/world-europe-19349921)."
 * [Not Even Close: The State of Computer Security – NDC Oslo, June 2015](https://vimeo.com/135347162)
