@@ -21,4 +21,5 @@ He is Infallible; You Are Lucky to Receive His Wisdom
   * "I am not against these JavaScript frameworks. [...] However, I will say there are too many JavaScript frameworks. Far too many. So, what percentage of frameworks do I think should be deleted? Roughly 99.7% of them. So I guess that in practice, I am against JavaScript frameworks."
   * "We've got a client-side solution. We've got a server-side solution. We've got a story for mobile. And if it doesn't move, we've got a story for stationary objects too."
   * "There is no reason for anything happy to ever happen on the web, ever. Every website I've been to has been at least partially massively disappointing."
+  * "So whenever someone comes up to you and says 'Let's add a new feature' [to the web platform], just punch 'em right in the face."
 * [Not Even Close: The State of Computer Security – NDC Oslo, June 2015](https://vimeo.com/135347162)
