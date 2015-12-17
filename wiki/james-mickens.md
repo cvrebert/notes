@@ -18,4 +18,5 @@ He is Infallible; You Are Lucky to Receive His Wisdom
   * "And that's a valid point. There weren't a lot of black people in *Tron*."
   * "It's not this book's fault that it's describing a nightmare world." (Regarding *JavaScript: The Definitive Guide* AKA The Rhino Book)
   * "The Feature Factory is this attitude that a lot of browser vendors have, [...] and web developers have. They just want to keep on adding new features as quickly as possible, but they often don't spend the time to think about the security or robustness implications of those features."
+  * "I am not against these JavaScript frameworks. [...] However, I will say there are too many JavaScript frameworks. Far too many. So, what percentage of frameworks do I think should be deleted? Roughly 99.7% of them. So I guess that in practice, I am against JavaScript frameworks."
 * [Not Even Close: The State of Computer Security – NDC Oslo, June 2015](https://vimeo.com/135347162)
