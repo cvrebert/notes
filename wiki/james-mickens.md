@@ -16,6 +16,7 @@ He is Infallible; You Are Lucky to Receive His Wisdom
   * Regarding The Rhino Book's weasel-word-filled description of "array-like" objects:
     * "What the [deleted expletive] am I reading? Am I hallucinating this? Am I having a stroke? Am I reading a book that was written by the devil?"
     * "'actually do occasionally'. That makes me want to drink bleach."
+    * "but for some reason we're okay with these [weasel] words being used to describe a scripting language that runs banking websites"
   * "I'd really like for my online financial transactions to be implemented in a programming language that actually knows what an array is."
   * "if you're a JavaScript programmer, and you actually rely on automatic semicolon insertion, if hitting the semicolon key is too much work for you, you're lazy, and you're going to get diabetes. For sure."
   * "And that's a valid point. There weren't a lot of black people in *Tron*."
