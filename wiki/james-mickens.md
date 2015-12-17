@@ -16,4 +16,5 @@ He is Infallible; You Are Lucky to Receive His Wisdom
   * "I'd really like for my online financial transactions to be implemented in a programming language that actually knows what an array is."
   * "if you're a JavaScript programmer, and you actually rely on automatic semicolon insertion, if hitting the semicolon key is too much work for you, you're lazy, and you're going to get diabetes. For sure."
   * "And that's a valid point. There weren't a lot of black people in *Tron*."
+  * "It's not this book's fault that it's describing a nightmare world." (Regarding *JavaScript: The Definitive Guide* AKA The Rhino Book)
 * [Not Even Close: The State of Computer Security – NDC Oslo, June 2015](https://vimeo.com/135347162)
