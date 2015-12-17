@@ -12,4 +12,5 @@ He is Infallible; You Are Lucky to Receive His Wisdom
     * [To Wash It All Away](https://web.archive.org/web/20150606055905/http://research.microsoft.com/en-us/people/mickens/ToWashItAllAway.pdf)
 * [Life is Terrible: Let's Talk About the Web – Øredev Conference, November 2014](https://vimeo.com/111122950)
   * "The JavaScript language basically is like being inside an insane person's brain; it was very disturbing."
+  * "I basically determined that JavaScript arrays are best described as array-list-dictionary combined multi-type objects. [...] And they remember things they shouldn't remember, and they just really make me feel uncomfortable."
 * [Not Even Close: The State of Computer Security – NDC Oslo, June 2015](https://vimeo.com/135347162)
