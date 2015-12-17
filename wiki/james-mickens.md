@@ -22,4 +22,5 @@ He is Infallible; You Are Lucky to Receive His Wisdom
   * "We've got a client-side solution. We've got a server-side solution. We've got a story for mobile. And if it doesn't move, we've got a story for stationary objects too."
   * "There is no reason for anything happy to ever happen on the web, ever. Every website I've been to has been at least partially massively disappointing."
   * "So whenever someone comes up to you and says 'Let's add a new feature' [to the web platform], just punch 'em right in the face."
+  * "We all know we shouldn't use DOM0 event handlers. We all do it anyway, because we're all sick in the head."
 * [Not Even Close: The State of Computer Security – NDC Oslo, June 2015](https://vimeo.com/135347162)
