@@ -8,6 +8,7 @@ He is Infallible; You Are Lucky to Receive His Wisdom
     * "These browsers are murderous thieves. And so what they do is they present you a flaky, semi-consistent set of APIs."
     * 'So take my hand, if you will, and join me on the garden path I like to call "Why the Suicide Rate for Web Developers is 89%".'
     * "Some of these DOM trees are vibrant and full of life, they're overflowing with joy. Other of these DOM trees are somewhat more minimal, but they still possess certain tree-like characteristics. And other DOM trees are so horrifying that I don't feel comfortable discussing them in polite conversation."
+    * "So, in conclusion, we think that Web browsers have a lot of potential. Now, of course, when someone tells you you have a lot of potential, that means that you're actually failing right now."
   * [Computers are a Sadness, I am the Cure – Monitorama PDX 2014](https://vimeo.com/95066828)
   * USENIX humor columns [in PDF]
     * [This World of Ours](https://web.archive.org/web/20150606055911/http://research.microsoft.com/en-us/people/mickens/thisworldofours.pdf)
