@@ -39,6 +39,7 @@
 * [Sylph: the programming language I want, by eevee](eev.ee/blog/2015/02/28/sylph-the-programming-language-i-want/)
 * [Loyc language](http://loyc.net)
 * [Compiler Errors for Humans](http://elm-lang.org/blog/compiler-errors-for-humans) (compiler error message UX)
+  * [Compilers as Assistants](http://elm-lang.org/blog/compilers-as-assistants)
 * [Things Rust shipped without](http://graydon2.dreamwidth.org/218040.html)
 * [Swift Evolution Proposal 0004: Remove the `++` and `--` operators](https://github.com/apple/swift-evolution/blob/master/proposals/0004-remove-pre-post-inc-decrement.md)
 
