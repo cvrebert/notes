@@ -12,12 +12,12 @@ He is Infallible; You Are Lucky to Receive His Wisdom
   * "So, in conclusion, we think that Web browsers have a lot of potential. Now, of course, when someone tells you you have a lot of potential, that means that you're actually failing right now."
 * [Computers are a Sadness, I am the Cure – Monitorama PDX 2014](https://vimeo.com/95066828)
 * USENIX humor columns [in PDF]
-  * [This World of Ours](https://web.archive.org/web/20150606055911/http://research.microsoft.com/en-us/people/mickens/thisworldofours.pdf) (On how security research is focusing on the wrong problems)
-  * [The Night Watch](https://web.archive.org/web/20150606055857/http://research.microsoft.com/en-us/people/mickens/thenightwatch.pdf) (On systems programmers being hardcore)
-  * [The Saddest Moment](https://web.archive.org/web/20150606055900/http://research.microsoft.com/en-us/people/mickens/thesaddestmoment.pdf) (On Byzantine fault tolerance research)
-  * [Mobile Computing Research Is a Hornet’s Nest of Deception and Chicanery](https://web.archive.org/web/20150606055855/http://research.microsoft.com/en-us/people/mickens/nestofhornets.pdf) (On the problems with smartphones and on mobile computing researchers' overoptimism)
-  * [The Slow Winter](https://web.archive.org/web/20150606055910/http://research.microsoft.com/en-us/people/mickens/theslowwinter.pdf) (On the history and bleak future of CPU design)
-  * [To Wash It All Away](https://web.archive.org/web/20150606055905/http://research.microsoft.com/en-us/people/mickens/ToWashItAllAway.pdf) (On the horror & hopelessness of the web and web browsers)
+  * [This World of Ours](http://scholar.harvard.edu/files/mickens/files/thisworldofours.pdf) ([archive.org](https://web.archive.org/web/20150606055911/http://research.microsoft.com/en-us/people/mickens/thisworldofours.pdf)) (On how security research is focusing on the wrong problems)
+  * [The Night Watch](http://scholar.harvard.edu/files/mickens/files/thenightwatch.pdf) ([archive.org](https://web.archive.org/web/20150606055857/http://research.microsoft.com/en-us/people/mickens/thenightwatch.pdf)) (On systems programmers being hardcore)
+  * [The Saddest Moment](http://scholar.harvard.edu/files/mickens/files/thesaddestmoment.pdf) ([archive.org](https://web.archive.org/web/20150606055900/http://research.microsoft.com/en-us/people/mickens/thesaddestmoment.pdf)) (On Byzantine fault tolerance research)
+  * [Mobile Computing Research Is a Hornet’s Nest of Deception and Chicanery](http://scholar.harvard.edu/files/mickens/files/nestofhornets.pdf) ([archive.org](https://web.archive.org/web/20150606055855/http://research.microsoft.com/en-us/people/mickens/nestofhornets.pdf)) (On the problems with smartphones and on mobile computing researchers' overoptimism)
+  * [The Slow Winter](http://scholar.harvard.edu/files/mickens/files/theslowwinter.pdf) ([archive.org](https://web.archive.org/web/20150606055910/http://research.microsoft.com/en-us/people/mickens/theslowwinter.pdf)) (On the history and bleak future of CPU design)
+  * [To Wash It All Away](http://scholar.harvard.edu/files/mickens/files/towashitallaway.pdf) ([archive.org](https://web.archive.org/web/20150606055905/http://research.microsoft.com/en-us/people/mickens/ToWashItAllAway.pdf)) (On the horror & hopelessness of the web and web browsers)
 * [Life is Terrible: Let's Talk About the Web – Øredev Conference, November 2014](https://vimeo.com/111122950)
   * "The JavaScript language basically is like being inside an insane person's brain; it was very disturbing."
   * "I basically determined that JavaScript arrays are best described as array-list-dictionary combined multi-type objects. [...] And they remember things they shouldn't remember, and they just really make me feel uncomfortable."
