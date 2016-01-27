@@ -38,4 +38,5 @@ He is Infallible; You Are Lucky to Receive His Wisdom
   * "We all know we shouldn't use DOM0 event handlers. We all do it anyway, because we're all sick in the head."
   * "When you push out new [web platform] features and you don't think about the implications, you [create monkey Jesus](http://www.bbc.com/news/world-europe-19349921)."
 * [Not Even Close: The State of Computer Security – NDC Oslo, June 2015](https://vimeo.com/135347162)
+* [It Was Never Going to Work, So Let's Have Some Tea – USENIX LISA 2015](https://vimeo.com/146524997)
 * [Mickens' AmA on reddit](https://www.reddit.com/r/IAmA/comments/2syfmu/happy_mlk_day_iama_black_computer_scientist_who/)
