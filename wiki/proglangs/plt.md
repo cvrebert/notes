@@ -42,6 +42,8 @@
   * [Compilers as Assistants](http://elm-lang.org/blog/compilers-as-assistants)
 * [Things Rust shipped without](http://graydon2.dreamwidth.org/218040.html)
 * [Swift Evolution Proposal 0004: Remove the `++` and `--` operators](https://github.com/apple/swift-evolution/blob/master/proposals/0004-remove-pre-post-inc-decrement.md)
+* [Midori: Microsoft's discontinued internal research language](http://joeduffyblog.com/2015/11/03/blogging-about-midori/)
+  * [Midori's error-handling model](http://joeduffyblog.com/2016/02/07/the-error-model/)
 
 > barrkel on HN:
 > There's a simple concept that one should bear in mind when designing APIs: "pit of success" (credit to Rico Mariani).
