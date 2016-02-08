@@ -2,8 +2,8 @@ The accessor problem:
 
 ```
 class Foo {
-    List<Int> bar;
-    List<Int> getBar() {
+    private List<Int> bar;
+    public List<Int> getBar() {
         /* This should be an error! */
         return bar;
     }
