@@ -19,3 +19,4 @@
   * [MVC Architecture for JS](http://michaux.ca/articles/mvc-architecture-for-javascript-applications)
 * [Incomplete List of Mistakes in the Design of CSS](https://wiki.csswg.org/ideas/mistakes)
   * https://news.ycombinator.com/item?id=10453850
+* [About HTML semantics and front-end architecture – Nicolas Gallagher](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/), or why "semantic" is bullshit
