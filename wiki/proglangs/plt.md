@@ -45,6 +45,7 @@
 * [Midori: Microsoft's discontinued internal research language](http://joeduffyblog.com/2015/11/03/blogging-about-midori/)
   * [Midori's error-handling model](http://joeduffyblog.com/2016/02/07/the-error-model/)
 * https://wiki.theory.org/index.php/YourLanguageSucks
+* [Near Future of Programming Languages](https://news.ycombinator.com/item?id=15582429)
 
 > barrkel on HN:
 > There's a simple concept that one should bear in mind when designing APIs: "pit of success" (credit to Rico Mariani).
