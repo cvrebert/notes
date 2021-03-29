@@ -17,3 +17,4 @@
 * [LL and LR in Context: Why Parsing Tools Are Hard](http://blog.reverberate.org/2013/09/ll-and-lr-in-context-why-parsing-tools.html)
 * [Resources for Amateur Compiler Writers](http://c9x.me/comp-bib/)
 * http://www.reddit.com/r/programming/comments/1sl483/stanford_computer_science_lectures_about/
+* [A Complete Guide to LLVM for Programming Language Creators](https://www.reddit.com/r/programming/comments/kjjijf/a_complete_guide_to_llvm_for_programming_language/)
