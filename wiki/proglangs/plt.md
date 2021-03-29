@@ -47,6 +47,7 @@
 * https://wiki.theory.org/index.php/YourLanguageSucks
 * [Near Future of Programming Languages](https://news.ycombinator.com/item?id=15582429)
 * [Chris Lattner: The Future of Computing and Programming Languages](https://lexfridman.com/chris-lattner-2/)
+* [Thinking with Types (eBook)](https://leanpub.com/thinking-with-types)
 
 > barrkel on HN:
 > There's a simple concept that one should bear in mind when designing APIs: "pit of success" (credit to Rico Mariani).
