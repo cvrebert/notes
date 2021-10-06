@@ -1,3 +1,8 @@
+* Questions
+  * Interviewer load & process
+  * Performance eval process
+  * WFH/WFO(Office) policy
+  * Socialization for remote workers
 * [Jobs at Incidental Complexity](http://incidentalcomplexity.com/hiring/)
 * http://www.baysano.com/b/top-companies-hiring-scala-engineers-cm574
 * http://www.typesafe.com/customers/our-customers-are-hiring
