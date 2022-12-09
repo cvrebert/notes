@@ -56,3 +56,14 @@
 ## Unnecessary Features for You
 
 * AWD
+
+## Test Drive
+
+* Plan out a route beforehand
+  * Include highway portion
+* Speedometer, after adjusting wheel
+* Steering wheel controls
+* Acceleration, Brakes, Steering
+* Engine+Wind noise
+* Passenger seat comfort
+
