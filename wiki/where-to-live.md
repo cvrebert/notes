@@ -40,6 +40,7 @@
     * Amount of rain/snow
       * Is Washington/Oregon acceptable?
     * Typical temperatures
+    * Wind speed (see Daly City, Chicago)
     * Typical sunset time (Latitude)
       * I hear Scotland can be depressing because of this?
   * Prevalence of house bugs (roaches, centipedes, etc.)
