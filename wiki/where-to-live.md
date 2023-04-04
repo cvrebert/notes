@@ -1,7 +1,5 @@
 # Choosing Where to Live: Considerations
 
-* Amenities
-  * TODO
 * Individual dwelling
   * Non-proximity to
     * Superfund sites
@@ -24,7 +22,6 @@
   * Mobile Internet coverage
   * Entertainment venues
     * Movie theater
-    * TODO
   * School quality/cost
 * Metro area
   * Weather
@@ -44,9 +41,24 @@
     * Beaches, Forests, Mountains, Rivers/Lakes
   * Decent hosptial system
   * Airport / National-level Train Station, for ability to travel
+  * Entertainment venues
+    * Music venue
+    * Theatre
+    * Comedy club
+    * Nightclub
+    * ~~Sports~~
+    * ~~Opera~~
+    * ~~Orchestra~~
 * State / National
+  * Developed country
   * Politics, Political system
-  * Languages spoken
+    * Parliamentary system
+    * Modern, non-plurality voting system; e.g. Proportional representation
+    * Current threat level of fascism
+  * Languages
+    * Use of English as working language
+    * Prevalence & acceptability of English
+    * Difficulty level of local language
   * Immigration requirements
   * Xenophobia level
   * Cost of living
