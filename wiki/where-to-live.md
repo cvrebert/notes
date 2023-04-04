@@ -1,5 +1,6 @@
 # Choosing Where to Live: Considerations
 
+* TODO: COVID public health and workplace considerations
 * Individual dwelling
   * Non-proximity to
     * Superfund sites
@@ -67,3 +68,18 @@
     * House prices / Rent prices
     * Tax rates
     * Utility rates
+  * Natural disaster risk
+    * Affected by climate change
+      * Can be individually mitigated
+        * Heat wave (by A/C)
+        * Power outage caused by natural disaster
+      * Requires regional planning
+        * Blizzard
+        * Drought
+        * Wildfire
+      * Flood
+        * Sea level rise
+      * Smoke drift from wildfire
+      * Tornado / Hurricane / Typhoon
+    * Earthquake / Tsunami
+    * ~~Volcanic eruption~~
