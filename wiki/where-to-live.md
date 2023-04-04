@@ -34,6 +34,8 @@
     * Typical temperatures
     * Typical sunset time (Latitude)
       * I hear Scotland can be depressing because of this?
+  * Prevalence of house bugs (roaches, centipedes, etc.)
+    * Correlates with weather and urbanity
   * Employers in the Tech industry
   * Activities/Groups/Events of interest
     * TODO
