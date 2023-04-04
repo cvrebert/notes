@@ -4,7 +4,7 @@
   * Non-proximity to
     * Superfund sites
     * Industrial businesses
-    * Car repair / Oil change
+    * Gas station / Car repair / Oil change
   * Ambient environmental quality
     * Air quality
     * Noise pollution
