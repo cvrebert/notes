@@ -1,6 +1,5 @@
 # Choosing Where to Live: Considerations
 
-* TODO: COVID public health and workplace considerations
 * Individual dwelling
   * Non-proximity to
     * Superfund sites
@@ -12,13 +11,19 @@
   * Non-presence of
     * Lead paint
     * Asbestos
+  * For remote jobs:
+    * Commute distance to co-working space or cafe/library
+    * Home-office room in separate floor/building
 * Local area
   * Weather microclimate (if applicable)
   * Walkability / Bikeability
   * Public transit
+  * For in-person jobs:
+    * Commute distance
   * Public parks, Public pools
   * Low crime rate
   * Fast Internet speeds
+  * Supermarket proximity
   * Eateries/Restaurants/Bars/Cafes
   * Mobile Internet coverage
   * Entertainment venues
@@ -68,6 +73,9 @@
     * House prices / Rent prices
     * Tax rates
     * Utility rates
+  * Public health
+    * COVID vaccination level
+    * COVID death rate
   * Natural disaster risk
     * Affected by climate change
       * Can be individually mitigated
