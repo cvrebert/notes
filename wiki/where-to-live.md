@@ -30,6 +30,7 @@
     * Movie theater
   * School quality/cost
 * Metro area
+  * Proximity to family/friends
   * Weather
     * Humidity
       * I hate it, but tolerable with A/C. And how many outdoor activites do I partake in?
