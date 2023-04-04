@@ -25,6 +25,7 @@
   * Fast Internet speeds
   * Supermarket proximity
   * Eateries/Restaurants/Bars/Cafes
+    * Burrito, Indian curry, Thai curry, Fish, Brunch/Diner
   * Mobile Internet coverage
   * Entertainment venues
     * Movie theater
