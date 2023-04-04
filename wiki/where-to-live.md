@@ -60,6 +60,9 @@
     * ~~Sports~~
     * ~~Opera~~
     * ~~Orchestra~~
+  * Cultural norms
+    * Diversity
+    * Religiosity
 * State / National
   * Developed country
   * Politics, Political system
