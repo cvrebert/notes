@@ -19,7 +19,7 @@
   * Walkability / Bikeability
   * Public transit
   * For in-person jobs:
-    * Commute distance
+    * Commute distance; see US Census' "Mean travel time to work"
   * Public parks, Public pools
   * Low crime rate
   * Fast Internet speeds
