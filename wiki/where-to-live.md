@@ -33,7 +33,7 @@
   * Mobile Internet coverage
   * Entertainment venues
     * Movie theater
-  * School quality/cost
+  * ~~School quality/cost~~
 * Metro area
   * Proximity to family/friends
   * Weather
