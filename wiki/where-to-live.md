@@ -8,6 +8,10 @@
   * Ambient environmental quality
     * Air quality
     * Noise pollution
+      * From traffic
+      * From church bells
+      * From schools
+      * From children playing after school
   * Non-presence of
     * Lead paint
     * Asbestos
