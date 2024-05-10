@@ -4,9 +4,13 @@
   1. `regedit`
   2. `HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows`
   3. New Key: `Explorer`
-  4. New DWORD: `DisableSearchBoxSuggestions` Value: 1
+  4. New DWORD: `DisableSearchBoxSuggestions` Data value: 1
 * Disable security questions as an option for resetting local account passwords:
   1. `regedit`
   2. `HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System`
-  3. New DWORD: `NoLocalPasswordResetQuestions` Value: 1
+  3. New DWORD: `NoLocalPasswordResetQuestions` Data value: 1
   4. (Allegedly) Change your password
+* (Allegedly) Permanently disable "Sign in to your Microsoft account" [nag](https://www.deceptive.design/types/nagging) notification in the Start Menu, that only offers a "Remind me later" option and no "Never ask again" option.
+  1. `regedit`
+  2. `HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\CurrentVersion\AccountNotifications`
+  3. New DWORD: `DisableAccountNotifications` Data value: 1
