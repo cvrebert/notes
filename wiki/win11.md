@@ -10,7 +10,7 @@
   2. `HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System`
   3. New DWORD: `NoLocalPasswordResetQuestions` Data value: 1
   4. (Allegedly) Change your password
-* (Allegedly) Permanently disable "Sign in to your Microsoft account" [nag](https://www.deceptive.design/types/nagging) notification in the Start Menu, that only offers a "Remind me later" option and no "Never ask again" option.
+* Permanently disable "Sign in to your Microsoft account" [nag](https://www.deceptive.design/types/nagging) notification in the Start Menu, that only offers a "Remind me later" option and no "Never ask again" option.
   1. `regedit`
   2. `HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\CurrentVersion\AccountNotifications`
   3. New DWORD: `DisableAccountNotifications` Data value: 1
