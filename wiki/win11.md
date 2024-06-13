@@ -15,3 +15,5 @@
   2. `HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\CurrentVersion\AccountNotifications`
   3. New DWORD: `DisableAccountNotifications` Data value: 1
 * [ElevenForum: Disable ads in Windows 11](https://www.elevenforum.com/t/disable-ads-in-windows-11.8004/)
+* Disable tracking that's not even utilized anymore:
+  * Settings ❯ Privacy & security ❯ Activity history
