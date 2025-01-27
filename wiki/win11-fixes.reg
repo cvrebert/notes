@@ -13,6 +13,8 @@
 "BrowserSignin"=dword:00000000
 ;Disable ability to sign into Edge (via a Microsoft Account).
 ; https://learn.microsoft.com/en-us/deployedge/microsoft-edge-policies#browsersignin
+"DefaultBrowserSettingEnabled"=dword:00000000
+;Disable prompts asking to make Edge the default browser.
 
 [HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\CurrentVersion\AccountNotifications]
 "DisableAccountNotifications"=dword:00000001
