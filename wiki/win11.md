@@ -8,6 +8,9 @@
 * [ElevenForum: Disable ads in Windows 11](https://www.elevenforum.com/t/disable-ads-in-windows-11.8004/)
 * Disable tracking that's not even utilized anymore:
   * Settings ❯ Privacy & security ❯ Activity history
+* Edge:
+  1. Navigate to `edge://flags`
+  2. Search for and disable anything involving "Bing".
 
 ### Development
 * [WSL file paths](https://learn.microsoft.com/en-us/windows/wsl/setup/environment#file-storage)
