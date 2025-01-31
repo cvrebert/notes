@@ -15,6 +15,9 @@
 ; https://learn.microsoft.com/en-us/deployedge/microsoft-edge-policies#browsersignin
 "DefaultBrowserSettingEnabled"=dword:00000000
 ;Disable prompts asking to make Edge the default browser.
+"DefaultBrowserSettingsCampaignEnabled"=dword:00000000
+;Disable periodic prompts that forcibly revert the default search engine to Bing.
+; https://learn.microsoft.com/en-us/deployedge/microsoft-edge-policies#defaultbrowsersettingscampaignenabled
 
 [HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\CurrentVersion\AccountNotifications]
 "DisableAccountNotifications"=dword:00000001
