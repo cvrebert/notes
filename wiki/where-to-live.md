@@ -3,7 +3,7 @@
 * Individual dwelling
   * Non-proximity to
     * Superfund sites
-    * Industrial businesses
+    * Industrial businesses; https://echo.epa.gov
     * Gas station / Car repair / Oil change
   * Ambient environmental quality
     * Air quality
